@@ -40,7 +40,7 @@ __Gebze Technical University, Masters of Physics.__
 __Freelance Software Developer__, Global  
 _mostly back-end and javascript projects_
 
-- I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
+- I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS and etc...
 
 `November 2018 - now`
 __chaospin.com__, Global 
@@ -61,5 +61,5 @@ _Back-End Developer_
 
 - `Django, Rest API` : [github.com/incendies/djangorestapitodo](https://github.com/incendies/djangorestapitodo)
 
-- `VueJS` : 
-  - Source: [github.com/incendies/loginpage-withvuejs](https://github.com/incendies/loginpage-withvuejs)
+- `VueJS` :
+  Source: [github.com/incendies/loginpage-withvuejs](https://github.com/incendies/loginpage-withvuejs)
