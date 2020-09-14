@@ -9,8 +9,8 @@ Front-End Developer
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
 | __Website__  | [chaospin.com](https://chaospin.com)                         |
 | __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar) |
-| __Twitter__  | [twitter.com/beratbozkurt0](https://twitter.com/beratbozkurt0)       |
-| __GitHub__  | [github.com/berat](https://github.com/berat)         |
+| __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)       |
+| __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
 ## TLDR;
 
