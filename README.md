@@ -1,11 +1,10 @@
-[berat.github.io/cv]: https://berat.github.io/cv
-[latest release]: https://github.com/berat/cv/releases/latest
+[incendies.github.io/cv]: https://incendies.github.io/cv
 
 # Source of Eralp Karaduman's CV
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
-| [berat.github.io/cv] | [latest release] |
+| [incendies.github.io/cv] | [latest release] |
 
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
