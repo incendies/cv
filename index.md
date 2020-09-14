@@ -16,7 +16,7 @@ Front-End Developer
 
 - I'm a full-stack developer
 - I use Python, JavaScript, GoLang, C#
-- I have a small projects called [chaospin.com](https://chaospin.com) [netflixjunkie.com](https://netflixjunkie.com)
+- I have a small projects called [chaospin.com](https://chaospin.com) and [netflixjunkie.com](https://netflixjunkie.com)
 - I've been writing C# and 
 - You can see below for code examples, open source personal projects.
 
