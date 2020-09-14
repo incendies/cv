@@ -38,12 +38,12 @@ __Gebze Technical University, Masters of Physics.__
 
 `Jun 2018 - now`
 __Freelance Software Developer__, Global  
-_Front-End Developer_
+_mostly back-end and javascript projects_
 
 - I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
 
 `November 2018 - now`
-__Davetiyem.Co__, Turkey  
+__chaospin.com__, Global 
 _Founder & Editor-in-Chief_
 
 
