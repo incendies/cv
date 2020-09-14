@@ -4,7 +4,7 @@ title: Yunus Emre Özdiyar's CV
 ---
 
 # Yunus Emre Özdiyar
-Front-End Developer
+Full-Stack Developer
 
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
 | __Website__  | [chaospin.com](https://chaospin.com)                         |
