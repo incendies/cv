@@ -43,12 +43,12 @@ _mostly back-end and javascript projects_
 - I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS and etc...
 
 `November 2018 - now`
-__chaospin.com__, Global 
+__chaospin.com__, Global, 
 _Founder & Editor-in-Chief_
 
 
 `September 2018 - November 2018`
-__End-Point Labs__, Istanbul 
+__End-Point Labs__, Istanbul,
 _Back-End Developer_
 
 - I worked in office about Istanbul a short time and working under the Kondukto.io which in this project I use GoLang and MongoDB.
@@ -57,7 +57,7 @@ _Back-End Developer_
 ## Projects & Code Examples
 
 - `Python, ReactJS` : 
-  - Source: [github.com/incendies/movies](https://github.com/incendies/movies)
+   Source: [github.com/incendies/movies](https://github.com/incendies/movies)
 
 - `Django, Rest API` : [github.com/incendies/djangorestapitodo](https://github.com/incendies/djangorestapitodo)
 
