@@ -13,16 +13,13 @@ Full-Stack Developer
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
 ## Summary
+* Freelance Software Developer & Work on my own small projects 
 
 - I'm a full-stack developer
 - I use Python, JavaScript, GoLang, C#
 - I have a small projects called [chaospin.com](https://chaospin.com) and [netflixjunkie.com](https://netflixjunkie.com)
 - I've been writing Python, JavaScript, GoLang, and C# 
 - You can see below for code examples, open source personal projects.
-
-## Currently
-
-Freelance Software Developer & Work on my own small projects 
 
 
 ## Education
@@ -51,7 +48,7 @@ _Founder & Editor-in-Chief_
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
 
-- I worked in office about Istanbul a short time and working under the Kondukto.io which in this project I use GoLang and MongoDB.
+- I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I use GoLang and MongoDB.
 
 
 ## Projects & Code Examples
