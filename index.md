@@ -12,7 +12,7 @@ Full-Stack Developer
 | __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)       |
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
-## Summary;
+## Summary
 
 - I'm a full-stack developer
 - I use Python, JavaScript, GoLang, C#
