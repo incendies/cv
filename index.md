@@ -7,7 +7,7 @@ title: Yunus Emre Özdiyar's CV
 Full-Stack Developer
 
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
-| __Website__  | [chaospin.com](https://chaospin.com)                         |
+| __Website__  | [netflixjunkie.com](https://netflixjunkie.com)                        |
 | __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar) |
 | __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)       |
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
@@ -17,7 +17,7 @@ Full-Stack Developer
 
 - I'm a full-stack developer
 - I use Python, JavaScript, GoLang, C#
-- I have a small projects called [chaospin.com](https://chaospin.com) and [netflixjunkie.com](https://netflixjunkie.com)
+- I have a small projects called [netflixjunkie.com](https://netflixjunkie.com) and I sold my website [chaospin.com](https://chaospin.com)
 - I've been writing Python, JavaScript, GoLang, and C# 
 - You can see below for code examples, open source personal projects.
 
@@ -38,8 +38,8 @@ _mostly back-end and javascript projects_
 
 - I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS and etc...
 
-`November 2018 - now`
-__chaospin.com__, Global, 
+`April 2020 - now`
+__netflixjunkie.com__, Global, 
 _Founder & Editor-in-Chief_
 
 
