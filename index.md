@@ -30,6 +30,9 @@ __Istanbul University, Physics.__
 `2019-`
 __Gebze Technical University, Masters of Physics.__
 
+`2021-`
+__Bielefeld University, Germany, Masters of Physics.__
+
 ## Experience
 
 `Jun 2018 - now`
